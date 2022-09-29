@@ -1,3 +1,5 @@
+name: ClockIn
+
 on:
   workflow_dispatch:
   push:
